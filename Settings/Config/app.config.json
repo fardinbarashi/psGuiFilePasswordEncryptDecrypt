@@ -1,0 +1,7 @@
+{
+    "appName": "Password Encrypter",
+    "version": "2.0",
+    "defaultSaveFolder": "%USERPROFILE%\\Documents",
+    "defaultFileName": "Password.txt",
+    "logRetentionDays": 30
+}
