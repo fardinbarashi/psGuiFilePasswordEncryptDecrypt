@@ -1,6 +1,6 @@
 # FilePasswordEncryptDecrypt
 
-![](https://raw.githubusercontent.com/fardinbarashi/psGuiFilePasswordEncryptDecrypt/refs/heads/main/githubRepoContentDeleteIfYouWant/IMG/passwordlogo.png)
+![](https://raw.githubusercontent.com/fardinbarashi/psGuiFilePasswordEncryptDecrypt/refs/heads/main/githubRepoContentDeleteIfYouWant/IMG/passwordlogo2.png)
 
 **Note:** Encrypted passwords can only be decrypted by the same user and on the same system they were encrypted on.
 
